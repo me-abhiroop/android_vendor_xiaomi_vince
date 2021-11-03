@@ -1137,7 +1137,6 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
-    WfdCommon \
     com.android.hotwordenrollment.common.util \
     android.hardware.gnss@2.1-service-qti \
     manifest_android.hardware.drm@1.3-service.widevine \
